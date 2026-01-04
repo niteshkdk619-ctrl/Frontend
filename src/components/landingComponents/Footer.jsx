@@ -29,7 +29,7 @@ const Footer = () => {
 
             <h4 className="text-black text-xl"> Useful Links</h4>
             <a href="#"> About us</a>
-            <a href="#"> Contact us</a>
+            <a href="#"> Contact us here</a>
             <a href="#"> Privacy Policy</a>
             <a href="#"> Terms and Conditions</a>
             </div>
