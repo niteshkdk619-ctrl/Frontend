@@ -1,5 +1,6 @@
 import React from 'react'
 import CustomButton from '../common/CustomButton'
+import {Button} from '../ui/Button'
 
 const Hero = () => {
   return (
@@ -16,6 +17,7 @@ const Hero = () => {
 
         </p>
         <CustomButton text="Get Started"/>
+        <Button>Hello</Button>
       </div>
 
       {/* background image */}
